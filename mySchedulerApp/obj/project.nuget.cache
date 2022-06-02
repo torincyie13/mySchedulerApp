@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+O0+N8uAa9+8dhQ0RDjeLnBUBGmvXLy/KUw+ITADEIEibHAMwxEQGO9OQ83G4kfSl0R/yaFRd09hozCU3HwFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thawkins022713\\source\\repos\\mySchedulerApp\\mySchedulerApp\\mySchedulerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thawkins022713\\.nuget\\packages\\dhtmlx.scheduler.net\\4.0.3\\dhtmlx.scheduler.net.4.0.3.nupkg.sha512",
+    "C:\\Users\\thawkins022713\\.nuget\\packages\\dhtmlx.scheduler.net.responsive\\1.0.3\\dhtmlx.scheduler.net.responsive.1.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DHTMLX.Scheduler.NET 4.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DHTMLX.Scheduler.NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
